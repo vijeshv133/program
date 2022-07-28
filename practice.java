@@ -7,6 +7,7 @@ if (a<b)
   }
 else
   { system.out.println("b is less");
+   {system.out.println("hello everyone");
 }
  
 }
